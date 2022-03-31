@@ -1,5 +1,2 @@
 #!/bin/bash
-groups
-group a
-group b
-group c
+group a b c d
